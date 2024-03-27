@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap.css";
+h2{
+    color:green;
+    text-decoration:underline;
+    margin-top: 20px;
+    text-align: center;
+}
+span{
+    color: red;
+}
